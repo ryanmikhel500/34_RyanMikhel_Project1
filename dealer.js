@@ -194,16 +194,16 @@ function showPage(id) {
 	page.animate=(tweenEnd,1000)
 	page.show();
 }
-//function hideAllPages() {
-//	var pages = $(".page-panel");
-//	pages.each(function() {
-//				 var currentPage = $(this);
-//				 var hideStyle = {
-//					 opacity: 0.0,
-//					 visibility: "visible"
-//				 };
-//				 currentPage.css(hideStyle);
-//				 currentPage.hide();
-//	}
-//			  );
-//}
+function hideAllPages() {
+	var pages = $(".page-panel");
+	pages.each(function() {
+				 var currentPage = $(this);
+				 var hideStyle = {
+					 opacity: 0.0,
+					 visibility: "visible"
+				 };
+				 currentPage.css(hideStyle);
+				 currentPage.hide();
+	}
+			  );
+}

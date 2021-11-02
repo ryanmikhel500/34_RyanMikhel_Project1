@@ -1,9 +1,9 @@
 cashier - https://www.freepik.com/free-icon/cashier_15574622.htm
 exit sign - https://www.facebook.com/ComplianceSigns/
-porsche - https://www.porsche.com/
+porsche - https://www.porsche.com/ .
 volkswagen - https://www.volkswagen.com/
-audi - https://www.audi.com/
-bmw - https://www.bmw/com//
+audi - https://www.audi.com/ .
+bmw - https://www.bmw/com// .
 client1 | the rock - https://www.dmarge.com/2021/01/most-likeable-person-world-the-rock.html
 client2 - https://play.howstuffworks.com/quiz/what-kind-of-person-are-you
 client3 - https://www.freepik.com/free-photo/indoor-shot-beautiful-happy-african-american-woman-smiling-cheerfully-keeping-her-arms-folded-relaxing-indoors-after-morning-lectures-university_9440600.htm
@@ -14,3 +14,4 @@ client7 - https://www.dreamstime.com/photos-images/okay.html
 client8 - https://www.123rf.com/photo_25271649_satisfied-positive-man-gesturing-ok-sign-isolated-on-white-background.html
 client9 - https://www.123rf.com/photo_58674992_black-man-making-ok-sign.html
 client10 - https://post.bark.co/category/fun/
+about - https://www.nbcnews.com/news/latino/new-report-finds-auto-dealerships-discriminate-against-people-color-n837136
