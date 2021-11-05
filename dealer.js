@@ -191,7 +191,7 @@ function showPage(id) {
 	var tweenEnd = {
 					 opacity: 1.0
 					};
-	page.animate=(tweenEnd,1000)
+	page.animate(tweenEnd,1000)
 	page.show();
 }
 function hideAllPages() {
