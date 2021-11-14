@@ -97,16 +97,16 @@ html, body {width:100%; height:100%; font-family:Arial, Helvetica, sans-serif; f
 #bmw{
 	margin-top:460px;
 }
-.client_1{background-image:url("images2/client1.jpg");}
-.client_2{background-image:url("images2/client2.jpg");}
-.client_3{background-image:url("images2/client3.jpg");}
-.client_4{background-image:url("images2/client4.jpg");}
-.client_5{background-image:url("images2/client5.jpg");}
-.client_6{background-image:url("images2/client6.jpg");}
-.client_7{background-image:url("images2/client7.jpg");}
-.client_8{background-image:url("images2/client8.jpg");}
-.client_9{background-image:url("images2/client9.jpg");}
-.client_10{background-image:url("images2/client10.jpg");}
+.client_1{background-image:url("images/client_1.jpg");}
+.client_2{background-image:url("images/client_2.jpg");}
+.client_3{background-image:url("images/client_3.jpg");}
+.client_4{background-image:url("images/client_4.jpg");}
+.client_5{background-image:url("images/client_5.jpg");}
+.client_6{background-image:url("images/client_6.jpg");}
+.client_7{background-image:url("images/client_7.jpg");}
+.client_8{background-image:url("images/client_8.jpg");}
+.client_9{background-image:url("images/client_9.jpg");}
+.client_10{background-image:url("images/client_10.jpg");}
 
 .car img {
 	width: 80px;
